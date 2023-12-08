@@ -9,8 +9,8 @@
 - 🤔 Currently learning **Node.js, Android Native, Redis**
 - 💬 Ask me about **Technology, Islam, History and Politics**
 ### Skills
-- Mobile application development using **Cordova, Flutter**
-- Frontend development using **Framework7, HTML**
+- Mobile application development using **Cordova, Dart**
+- Frontend development using **Framework7, HTML, Flutter**
 - Backend development using **PHP, Node.js**
 - Database using **Firebase, MySQL, PostgreSQL, SQLite, MongoDB**
 - Server using **Debian, Containerize(Docker), Terraform**
