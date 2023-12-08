@@ -8,14 +8,14 @@
 ### Me
 - 🌱 I’m working as **Fullstack Software Developer**
 - 👯 Interested in everything about **Blockchain, P2P, and Linux**
-- 🤔 Currently learning **Node.js, Kotlin, Redis**
+- 🤔 Currently learning **Node.js, Android Native, Redis**
 - 💬 Ask me about **Technology, Islam, History and Politics**
 ### Skills
 - Mobile application development using **Cordova, Flutter**
 - Frontend development using **Framework7, Semantic-UI, JQuery**
 - Backend development using **PHP, Node.js**
 - Database using **Firebase, MySQL, PostgreSQL, SQLite, MongoDB**
-- Server Using **Debian, OpenSuse, Containerize(Docker)**
+- Server Using **Debian, OpenSuse, Containerize(Docker), Terraform**
 
 ### ⚡ Now Focused
 [![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
