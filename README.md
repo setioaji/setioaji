@@ -14,7 +14,7 @@
 - Backend development using **PHP, Node.js**
 - Database using **Firebase, MySQL, PostgreSQL, SQLite, MongoDB**
 - Server using **Debian, Containerize(Docker), Terraform**
-- Others **Git, JQuery, Bootstrap, SemanticUI**
+- Others **Git, JQuery, Bootstrap, SemanticUI, CI/CD, Apache, Nginx**
 
 ### ⚡ Now Focused
 [![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
