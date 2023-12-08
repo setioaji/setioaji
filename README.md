@@ -5,20 +5,17 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/setiyoaji_am)
 ![](https://komarev.com/ghpvc/?username=setioaji&base=14&style=for-the-badge)
 
-### Code
-```
-cat /etc/who-is-aji
-```
-### Results
+### Me
 - 🌱 I’m working as **Fullstack Software Developer**
-- 👯 Interested in everything about **Blockchain , P2P, and Linux**
-- 🤔 Currently learning **Node.js**
+- 👯 Interested in everything about **Blockchain, P2P, and Linux**
+- 🤔 Currently learning **Node.js, Kotlin, Redis**
 - 💬 Ask me about **Technology, Islam, History and Politics**
 ### Skills
 - Mobile application development using **Cordova, Flutter**
 - Frontend development using **Framework7, Semantic-UI, JQuery**
 - Backend development using **PHP, Node.js**
 - Database using **Firebase, MySQL, PostgreSQL, SQLite, MongoDB**
+- Server Using **Debian, OpenSuse, Containerize(Docker)**
 
 ### ⚡ Now Focused
 [![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
