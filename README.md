@@ -12,7 +12,7 @@
 - 💬 Ask me about **Technology, Islam, History and Politics**
 ### Skills
 - Mobile application development using **Cordova, Flutter**
-- Frontend development using **Framework7, Semantic-UI, JQuery**
+- Frontend development using **Framework7, JQuery, HTML**
 - Backend development using **PHP, Node.js**
 - Database using **Firebase, MySQL, PostgreSQL, SQLite, MongoDB**
 - Server Using **Debian, OpenSuse, Containerize(Docker), Terraform**
