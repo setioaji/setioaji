@@ -17,5 +17,4 @@
 - Others **Git, JQuery, Bootstrap, SemanticUI, CI/CD, Apache, Nginx**
 
 ### ⚡ Now Focused
-[![Go Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
